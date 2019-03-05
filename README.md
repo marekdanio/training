@@ -1,4 +1,4 @@
-(E) Try git 
+(A) Try git 
 ---------
 HALO - change
 ---------
